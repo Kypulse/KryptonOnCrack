@@ -1,23 +1,21 @@
 {
   "schemaVersion": 1,
-  "id": "betterf3",
-  "version": "11.0.1",
-  "name": "BetterF3",
-  "description": "Replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.",
+  "id": "kryptononcrack",
+  "version": "1.6.1",
+  "name": "Krypton On Crack",
+  "description": "Kracked Krypton For Free",
   "icon": "icon.png",
   "authors": [
-    "cominixo",
-    "TreyRuffy"
+    "Kypulse"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/mod/betterf3",
-    "sources": "https://github.com/TreyRuffy/BetterF3.git",
-    "issues": "https://github.com/TreyRuffy/BetterF3/issues/"
+    "github": "https://github.com/Kypulse/KryptonOnCrack",
+    "discord": "https://discord.gg/g3h87TyGs6"
   },
   "license": "MIT",
   "environment": "client",
   "entrypoints": {
-    "main": [
+    "client": [
       "skid.krypton.Main"
     ]
   },
