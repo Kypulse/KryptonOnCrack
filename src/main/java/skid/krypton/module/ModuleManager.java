@@ -15,7 +15,7 @@ import skid.krypton.module.modules.render.StorageESP;
 import skid.krypton.module.modules.render.TargetHUD;
 import skid.krypton.module.setting.BindSetting;
 import skid.krypton.utils.EncryptedString;
-
+import skid.krypton.module.modules.render.Fullbright;//dont judge me alr okay 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
@@ -66,7 +66,8 @@ public final class ModuleManager {
         this.a(new TargetHUD());
         this.a(new Krypton());
         this.a(new SelfDestruct());
-		this.a(new ScoreboardHider());
+        this.a(new ScoreboardHider());
+	this.a(new Fullbright());
 		
     }
 
