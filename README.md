@@ -2,6 +2,8 @@
 
 Welcome to **Krypton Cracked**, a fully unlocked version of the original Krypton client — cracked, enhanced, and released by **KyPulse**, a game exploit coder focused on pushing Minecraft to its limits.
 
+![Not a RAT](isthisaratanalysis.png)
+
 ---
 
 ## ⚠️ Disclaimer
@@ -11,18 +13,19 @@ Welcome to **Krypton Cracked**, a fully unlocked version of the original Krypton
 
 ---
 
-## 📦 Features
+## ✅ This is NOT a RAT
 
-- ✅ Full Krypton GUI access (no auth)
-- 🔓 Bypasses built-in token checks
-- 🔧 Loader & system fully reversed
-- 📥 Clean and simple structure for modding or repacking
-- 👨‍💻 Made for developers and explorers
+Worried this is backdoored?  
+Don’t be. Here’s a full static analysis showing **no signs of remote access tools (RATs)**, stealers, or malicious intent.
+
+🔍 Transparency matters. You can inspect everything yourself — no obfuscation, no tricks.
 
 ---
 
-## 🛠️ How to Use
+## 📦 Features
 
-1. Clone the repo or download ZIP  
-   ```bash
-   git clone https://github.com/R3P41Y/KryptonOnCrack
+- ✅ Full Krypton GUI access (no auth required)
+- 🔓 All security checks bypassed
+- ⚙️ Reversed loader and runtime system
+- 🧩 Clean structure for modding, repacking, or learning
+- 👨‍💻 Built with devs and researchers in mind
