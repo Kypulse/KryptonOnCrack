@@ -68,6 +68,7 @@ public final class ModuleManager {
         this.a(new SelfDestruct());
         this.a(new ScoreboardHider());
 	this.a(new Fullbright());
+	this.a(new TunnelBaseFinderUltraStealth());
 		
     }
 
