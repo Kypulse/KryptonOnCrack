@@ -2,7 +2,7 @@
 
 Welcome to **Krypton Cracked**, a fully unlocked version of the original Krypton client — cracked, enhanced, and released by **KyPulse**, a game exploit coder focused on pushing Minecraft to its limits.
 
-![Not a RAT](isthisaratanalysis.png)
+
 
 ---
 
@@ -14,7 +14,8 @@ Welcome to **Krypton Cracked**, a fully unlocked version of the original Krypton
 ---
 
 ## ✅ This is NOT a RAT
-
+![Not a RAT](isthisaratanalysis.png)
+https://isthisarat.com/score/77bcc3a84b2eac53b4f08a664e7a71a5896d49cb5758b0eca283b3982117bc12
 Worried this is backdoored?  
 Don’t be. Here’s a full static analysis showing **no signs of remote access tools (RATs)**, stealers, or malicious intent.
 
